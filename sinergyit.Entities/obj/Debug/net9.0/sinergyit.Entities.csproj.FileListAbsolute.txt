@@ -1,0 +1,12 @@
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\bin\Debug\net9.0\sinergyit.Entities.deps.json
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\bin\Debug\net9.0\sinergyit.Entities.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\bin\Debug\net9.0\sinergyit.Entities.pdb
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\obj\Debug\net9.0\sinergyit.Entities.csproj.AssemblyReference.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\obj\Debug\net9.0\sinergyit.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\obj\Debug\net9.0\sinergyit.Entities.AssemblyInfoInputs.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\obj\Debug\net9.0\sinergyit.Entities.AssemblyInfo.cs
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\obj\Debug\net9.0\sinergyit.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\obj\Debug\net9.0\sinergyit.Entities.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\obj\Debug\net9.0\refint\sinergyit.Entities.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\obj\Debug\net9.0\sinergyit.Entities.pdb
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Entities\obj\Debug\net9.0\ref\sinergyit.Entities.dll

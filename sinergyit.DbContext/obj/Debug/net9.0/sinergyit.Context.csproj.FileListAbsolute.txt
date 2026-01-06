@@ -1,0 +1,17 @@
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\bin\Debug\net9.0\sinergyit.Context.deps.json
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\bin\Debug\net9.0\sinergyit.Context.runtimeconfig.json
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\bin\Debug\net9.0\sinergyit.Context.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\bin\Debug\net9.0\sinergyit.Context.pdb
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\bin\Debug\net9.0\sinergyit.Entities.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\bin\Debug\net9.0\sinergyit.Entities.pdb
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\sinergyit.Context.csproj.AssemblyReference.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\sinergyit.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\sinergyit.Context.AssemblyInfoInputs.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\sinergyit.Context.AssemblyInfo.cs
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\sinergyit.Context.csproj.CoreCompileInputs.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\sinergyi.4D3E1712.Up2Date
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\sinergyit.Context.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\refint\sinergyit.Context.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\sinergyit.Context.pdb
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\sinergyit.Context.genruntimeconfig.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DbContext\obj\Debug\net9.0\ref\sinergyit.Context.dll

@@ -1,0 +1,11 @@
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\bin\Debug\net9.0\sinergyit.DTOS.deps.json
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\bin\Debug\net9.0\sinergyit.DTOS.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\bin\Debug\net9.0\sinergyit.DTOS.pdb
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\obj\Debug\net9.0\sinergyit.DTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\obj\Debug\net9.0\sinergyit.DTOS.AssemblyInfoInputs.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\obj\Debug\net9.0\sinergyit.DTOS.AssemblyInfo.cs
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\obj\Debug\net9.0\sinergyit.DTOS.csproj.CoreCompileInputs.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\obj\Debug\net9.0\sinergyit.DTOS.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\obj\Debug\net9.0\refint\sinergyit.DTOS.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\obj\Debug\net9.0\sinergyit.DTOS.pdb
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.DTOS\obj\Debug\net9.0\ref\sinergyit.DTOS.dll

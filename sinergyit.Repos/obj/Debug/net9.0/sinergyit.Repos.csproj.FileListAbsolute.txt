@@ -1,0 +1,17 @@
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\bin\Debug\net9.0\sinergyit.Repos.deps.json
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\bin\Debug\net9.0\sinergyit.Repos.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\bin\Debug\net9.0\sinergyit.Repos.pdb
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\bin\Debug\net9.0\sinergyit.Entities.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\bin\Debug\net9.0\sinergyit.Entities.pdb
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\obj\Debug\net9.0\sinergyit.Repos.csproj.AssemblyReference.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\obj\Debug\net9.0\sinergyit.Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\obj\Debug\net9.0\sinergyit.Repos.AssemblyInfoInputs.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\obj\Debug\net9.0\sinergyit.Repos.AssemblyInfo.cs
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\obj\Debug\net9.0\sinergyit.Repos.csproj.CoreCompileInputs.cache
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\obj\Debug\net9.0\sinergyi.BCE46C0B.Up2Date
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\obj\Debug\net9.0\sinergyit.Repos.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\obj\Debug\net9.0\refint\sinergyit.Repos.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\obj\Debug\net9.0\sinergyit.Repos.pdb
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\obj\Debug\net9.0\ref\sinergyit.Repos.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\bin\Debug\net9.0\sinergyit.Context.dll
+C:\Users\sproid\source\repos\sinergyit-soru\sinergyit.Repos\bin\Debug\net9.0\sinergyit.Context.pdb
