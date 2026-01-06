@@ -8,7 +8,7 @@ Bu proje, .NET platformunda Entity Framework Core, MSSQL, Repository Pattern, xU
 - Repository Pattern kullanımı
 - Console Application üzerinden CRUD işlemlerinin çalıştırılması
 - xUnit ile unit test yazımı
-- Moq kullanılarak bağımlılıkların mock’lanması
+- Moq kullanılarak bağımlılıkların mocklanması
 - Fact ve Theory kullanımı
 
 ## Kullanılan Teknolojiler
@@ -31,11 +31,7 @@ Bu proje, .NET platformunda Entity Framework Core, MSSQL, Repository Pattern, xU
 ## Unit Testler
 
 Unit testler xUnit kullanılarak yazılmıştır.  
-Repository ve veritabanı bağımlılıkları Moq kullanılarak mock’lanmış, servis katmanı izole şekilde test edilmiştir.
+Repository ve veritabanı bağımlılıkları Moq kullanılarak mocklanmış ve servis katmanı izole şekilde test edilmiştir.
 
 - `[Fact]` ile tek senaryolu testler
-- `[Theory]` ve `[InlineData]` ile parametreli testler
-
-## Not
-
-Bu proje öğrenme ve pratik amaçlı hazırlanmıştır.
+- `[Theory]` ve `[InlineData]` ile farklı verilerle testler
